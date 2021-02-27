@@ -1,0 +1,8 @@
+.information-section-style{
+    display: flex;
+    justify-content: space-around;
+
+}
+.people-information{
+   width: 960px;
+}

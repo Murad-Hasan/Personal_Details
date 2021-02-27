@@ -1,0 +1,10 @@
+.budget-calculate-cart{
+    width: 300px;
+    height: 500px;
+    background: linear-gradient(to left, #4d6898 ,#4b5561);
+    border-radius: 10px;
+    box-shadow: -2px 1px 20px 2px grey;
+    margin: 5px;
+    padding: 10px;
+}
+

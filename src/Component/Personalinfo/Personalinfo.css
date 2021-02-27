@@ -1,0 +1,23 @@
+.cart{
+    text-align: center;
+    border: 1px solid lightgray;
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
+    float: left;
+    margin-left: 50px;
+    background: linear-gradient(to right, #6190e8, #a7bfe8)
+}
+.cart img{
+    width: 200px ;
+}
+.add-btn{
+    padding: 10px 20px ;
+    background: goldenrod;
+    border-radius: 5px;
+    cursor: pointer;
+    outline-style: none;
+}
